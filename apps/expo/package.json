@@ -14,14 +14,14 @@
     "dependencies": {
         "@acme/api": "workspace:^",
         "@acme/tailwind-config": "workspace:^",
-        "@clerk/clerk-expo": "^0.17.8",
+        "@clerk/clerk-expo": "^0.20.10",
         "@shopify/flash-list": "^1.6.3",
-        "@tanstack/react-query": "^4.36.1",
+        "@tanstack/react-query": "^5.28.0",
         "@trpc/client": "^10.45.2",
         "@trpc/react-query": "^10.45.2",
         "@trpc/server": "^10.45.2",
-        "expo": "^48.0.21",
-        "expo-auth-session": "^4.1.0",
+        "expo": "^50.0.11",
+        "expo-auth-session": "^5.4.0",
         "expo-random": "^13.6.0",
         "expo-secure-store": "^12.8.1",
         "expo-status-bar": "^1.11.1",
@@ -29,9 +29,9 @@
         "nativewind": "^2.0.11",
         "react": "18.2.0",
         "react-dom": "18.2.0",
-        "react-native": "0.70.5",
-        "react-native-safe-area-context": "4.4.1",
-        "react-native-web": "~0.18.12"
+        "react-native": "0.73.6",
+        "react-native-safe-area-context": "4.9.0",
+        "react-native-web": "~0.19.10"
     },
     "devDependencies": {
         "@babel/core": "^7.24.0",
